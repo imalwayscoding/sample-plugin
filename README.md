@@ -1,8 +1,2 @@
-# Paper plugin sample
-[![Build Status](https://www.travis-ci.com/monun/tap-sample-plugin.svg?branch=master)](https://www.travis-ci.com/monun/tap-sample-plugin)
-## Environment
-* Kotlin
-* Tap
-* Kommand
-* Unit test
-* Travis CI
+# Paper sample plugin
+monun(각별)님이 만드신 tap-sample-plugin을 살작 수정해 만든 샘플입니다.
